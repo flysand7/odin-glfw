@@ -1,0 +1,9 @@
+{
+	version: "0.0.1",
+	description: "GLFW 3.3 Wrapper",
+	url: "https://github.com/flysand7/odin-glfw",
+	readme: "readme.md",
+	license: "0BSD",
+	keywords:["glfw3", "window"],
+	dependencies: {}
+}
